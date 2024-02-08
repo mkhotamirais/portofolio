@@ -10,7 +10,7 @@ const Title = () => {
     >
       <figure className="">
         <img
-          src="https://github.com/mkhotamirais/images/blob/main/my-images/me2-removebg.png?raw=true"
+          src="https://github.com/mkhotamirais/mkhotamirais.github.io/blob/main/images/me2-removebg.png?raw=true"
           alt="me"
           className="border-t-4 shadow-lg h-52 md:h-72 rounded-full bg-gradient-to-tr from-red-200 via-green-200 to-blue-200"
         />
