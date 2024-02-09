@@ -21,7 +21,7 @@ const Project = () => {
   return (
     <Section id="projects">
       <H1>Projects</H1>
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 md:gap-3 mb-5">
         {projectsList.map((pl) => (
           <a
             key={pl.name}
