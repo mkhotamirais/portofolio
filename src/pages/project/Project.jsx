@@ -6,15 +6,23 @@ const projectsList = [
   {
     name: "Nurul Iman",
     imagePath: "images/manuruliman.jpg",
-    url: "https://mkhotamirais.github.io/simple-webpage-nuruliman/",
+    url: "https://panduan-teknologi.vercel.app/porto/nuruliman/index.html",
   },
-  { name: "WPU Bootstrap", imagePath: "images/wpu-bs1.jpg", url: "https://mkhotamirais.github.io/simple-webpage-wpu-bs1/" },
+  {
+    name: "WPU Bootstrap",
+    imagePath: "images/wpu-bs1.jpg",
+    url: "https://panduan-teknologi.vercel.app/porto/wpu-bs1/index.html",
+  },
   {
     name: "WPU Materialize",
     imagePath: "images/wpu-mtrz1.jpg",
-    url: "https://mkhotamirais.github.io/simple-webpage-wpu-mtrz1/",
+    url: "https://panduan-teknologi.vercel.app/porto/wpu-mtrz1/index.html",
   },
-  { name: "MrWebdesigner", imagePath: "images/mrwd1.jpg", url: "https://mkhotamirais.github.io/simple-webpage-mrwd1/" },
+  {
+    name: "MrWebdesigner",
+    imagePath: "images/mrwd1.jpg",
+    url: "https://panduan-teknologi.vercel.app/porto/mrwd1/index.html",
+  },
 ];
 
 const Project = () => {
