@@ -16,7 +16,7 @@ const Header = () => {
 
   return (
     <header className="z-50 h-16 border-b px-3 lg:px-16 flex items-center justify-between sticky top-0 backdrop-blur backdrop-saturate-100 bg-[rgba(255,255,255,0.5)]">
-      <a href="https://portfolio-vercel" className="font-semibold text-xl uppercase">
+      <a href="/" className="font-semibold text-xl uppercase">
         mkhotami
       </a>
       <div className="flex gap-2 sm:gap-4 lg:gap-10">

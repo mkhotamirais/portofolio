@@ -9,19 +9,14 @@ const projectsList = [
     url: "https://panduan-teknologi.vercel.app/porto/nuruliman/index.html",
   },
   {
-    name: "WPU Bootstrap",
-    imagePath: "images/wpu-bs1.jpg",
-    url: "https://panduan-teknologi.vercel.app/porto/wpu-bs1/index.html",
+    name: "React CRUD basic",
+    imagePath: "images/react-crud-basic.png",
+    url: "https://react-crud-basic-ota.vercel.app/",
   },
   {
-    name: "WPU Materialize",
-    imagePath: "images/wpu-mtrz1.jpg",
-    url: "https://panduan-teknologi.vercel.app/porto/wpu-mtrz1/index.html",
-  },
-  {
-    name: "MrWebdesigner",
-    imagePath: "images/mrwd1.jpg",
-    url: "https://panduan-teknologi.vercel.app/porto/mrwd1/index.html",
+    name: "React CRUD Redux basic",
+    imagePath: "images/react-crud-redux-basic.png",
+    url: "https://react-crud-redux-basic.vercel.app/",
   },
 ];
 
